@@ -6,6 +6,8 @@ I have used HTML, CSS, Javascript, React, Node.js, and other technologies to cre
 
 Most of the back-ends have been built in Node.js. Most front-ends have been built in React. 
 
+For database creation, we used Knex. Deployment was generally to Heroku or AWS.
+
 Enjoy!
 
 <!--
