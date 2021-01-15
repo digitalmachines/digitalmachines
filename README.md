@@ -2,7 +2,7 @@
 
 I'm John, a full stack web developer & software engineer. Below you can see some of the projects I've worked on. 
 
-I have used HTML, CSS, Javascript, React, Node.js, and other technologies to create some of these projects. 
+I have used Javascript, React, Node.js, and other technologies to create some of these projects. 
 
 Most of the back-ends have been built in Node.js. Most front-ends have been built in React. 
 
