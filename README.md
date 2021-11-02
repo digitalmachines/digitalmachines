@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm John, a full stack web developer & software engineer. Below you can see some of the projects I've worked on. 
+Full stack web developer & software engineer. Below you can see some of the projects I've worked on. 
 
 I have used Javascript, React, Node.js, and other technologies to create some of these projects. 
 
